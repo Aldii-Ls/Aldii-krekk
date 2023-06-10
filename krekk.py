@@ -1,8 +1,5 @@
-# [+] Update By ALDii And All
+# [+] Credit script jangan di hapus
 # [+] Script Free Jangan Di Perjual Belikan Ya
-# [+] Donasi Untuk ALDii 
-# [+] Dana : 089622155832
-# [+] Thanks Buat Yang Dah Bantu Donasi 😁
 
 #------------------[ IMPORT MODULE ]-------------------#
 import requests,bs4,json,os,sys,random,datetime,time,re,urllib3,rich,base64,subprocess,uuid
