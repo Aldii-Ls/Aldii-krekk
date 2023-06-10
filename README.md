@@ -24,3 +24,5 @@ python krekk.py
 ```
 
 <H6>Silahkan pilih menu anda dan jika memasukan cookies facebook gw saranin menggunakan extension *cookiedought*</H6>
+
+Kalau tidak tau bisa chet wa.me/6281263452943
