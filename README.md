@@ -1,3 +1,5 @@
+#RUN VIA TERMUX
+
 ```bash
 pkg update && pkg upgrade
 ```
