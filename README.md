@@ -14,5 +14,13 @@ pkg install git
 cd /sdcard
 ```
 ```bash
-https://github.com/Aldii-Ls/Aldii-krekk.git
+git clone https://github.com/Aldii-Ls/Aldii-krekk.git
 ```
+```bash
+cd Aldii-krekk
+```
+```bash
+python krekk.py
+```
+
+<H6>Silahkan pilih menu anda dan jika memasukan cookies facebook gw saranin menggunakan extension *cookiedought*</H6>
